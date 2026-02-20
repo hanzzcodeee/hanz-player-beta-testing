@@ -1,0 +1,8 @@
+{
+  "name": "ray-player-final",
+  "version": "1.0.0",
+  "dependencies": {
+    "yt-search": "^2.10.4",
+    "@distube/ytdl-core": "latest"
+  }
+}
